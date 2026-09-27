@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev Reading Club</title>
+    <link>https://example.com</link>
+    <language>en</language>
+    <description>Weekly discussions on developer books and nonfiction readings.</description>
+    <itunes:author>Dev Reading Club</itunes:author>
+    <itunes:summary>Weekly discussions on developer books and nonfiction readings.</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Dev Reading Club</itunes:name>
+      <itunes:email>aldhifrhnd@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://placehold.co/3000x3000/4A90D9/white?text=Dev+Reading"/>
+
+    <item>
+      <title>Week 1 - Farewell Address Discussion</title>
+      <itunes:summary>We discuss a famous farewell address and share our reading resources.</itunes:summary>
+      <description><![CDATA[<p>Welcome to Dev Reading Club!</p>
+<p>This week's reading list and resources:</p>
+<ul>
+<li><a href="javascript:alert(document.domain)">View full show notes</a></li>
+<li><a href="javascript:window.__spotifyXssProof=document.domain">Resource library</a></li>
+<li><a href="https://example.com">Our website</a></li>
+</ul>
+<p>Thanks for listening!</p>]]></description>
+      <content:encoded><![CDATA[<p>Welcome to Dev Reading Club!</p>
+<p>This week's reading list and resources:</p>
+<ul>
+<li><a href="javascript:alert(document.domain)">View full show notes</a></li>
+<li><a href="javascript:window.__spotifyXssProof=document.domain">Resource library</a></li>
+<li><a href="https://example.com">Our website</a></li>
+</ul>
+<p>Thanks for listening!</p>]]></content:encoded>
+      <enclosure url="https://archive.org/download/nonfiction023_librivox/snf023_farewelltohisarmy_lee_rs.mp3"
+                 length="1600000" type="audio/mpeg"/>
+      <itunes:duration>120</itunes:duration>
+      <pubDate>Sat, 27 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">devreading-ep1-20260927</guid>
+    </item>
+
+    <item>
+      <title>Week 2 - Cultural History Deep Dive</title>
+      <itunes:summary>Exploring cultural history readings with bonus links.</itunes:summary>
+      <description><![CDATA[<p>Week 2 reading notes:</p>
+<p><a href="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;alert('xss2')">Bonus content</a></p>
+<p><a href="https://example.com">Normal link</a></p>]]></description>
+      <enclosure url="https://archive.org/download/nonfiction023_librivox/snf023_chinesewomensfeet_sciam_ava.mp3"
+                 length="4200000" type="audio/mpeg"/>
+      <itunes:duration>300</itunes:duration>
+      <pubDate>Fri, 26 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">devreading-ep2-20260927</guid>
+    </item>
+
+  </channel>
+</rss>
