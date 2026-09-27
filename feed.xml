@@ -19,8 +19,8 @@
     <itunes:image href="https://placehold.co/3000x3000/1DB954/white?text=Tech+Notes"/>
 
     <item>
-      <title>Episode 1 - Getting Started</title>
-      <itunes:summary>Our first episode with helpful links and resources.</itunes:summary>
+      <title>Episode 1 - Getting Started with Nonfiction</title>
+      <itunes:summary>Our first episode discussing nonfiction reading and helpful resources.</itunes:summary>
       <description><![CDATA[<p>Welcome to Tech Notes Daily!</p>
 <p>Show notes and resources:</p>
 <ul>
@@ -37,25 +37,25 @@
 <li><a href="https://example.com">Our website</a></li>
 </ul>
 <p>Thanks for listening!</p>]]></content:encoded>
-      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-                 length="9588326" type="audio/mpeg"/>
-      <itunes:duration>354</itunes:duration>
-      <pubDate>Sat, 27 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">technotes-ep1-20260927</guid>
+      <enclosure url="https://archive.org/download/nonfiction023_librivox/snf023_farewelltohisarmy_lee_rs.mp3"
+                 length="1600000" type="audio/mpeg"/>
+      <itunes:duration>120</itunes:duration>
+      <pubDate>Sat, 27 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">technotes-v2-ep1-20260927</guid>
     </item>
 
     <item>
-      <title>Episode 2 - Advanced Tips</title>
-      <itunes:summary>More tips with additional encoded links.</itunes:summary>
+      <title>Episode 2 - Advanced Reading Tips</title>
+      <itunes:summary>More tips with additional resources and links.</itunes:summary>
       <description><![CDATA[<p>Episode 2 show notes:</p>
 <p><a href="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;alert('xss2')">Bonus content</a></p>
 <p><a href="data:text/html,<script>alert('data')</script>">Data link</a></p>
 <p><a href="https://example.com">Normal link</a></p>]]></description>
-      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
-                 length="8929444" type="audio/mpeg"/>
-      <itunes:duration>321</itunes:duration>
-      <pubDate>Fri, 26 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">technotes-ep2-20260927</guid>
+      <enclosure url="https://archive.org/download/nonfiction023_librivox/snf023_chinesewomensfeet_sciam_ava.mp3"
+                 length="4200000" type="audio/mpeg"/>
+      <itunes:duration>300</itunes:duration>
+      <pubDate>Fri, 26 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">technotes-v2-ep2-20260927</guid>
     </item>
 
   </channel>
