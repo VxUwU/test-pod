@@ -12,6 +12,10 @@
     <itunes:summary>Daily tech insights and show notes.</itunes:summary>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Tech Notes</itunes:name>
+      <itunes:email>aldhifrhnd@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://placehold.co/3000x3000/1DB954/white?text=Tech+Notes"/>
 
     <item>
